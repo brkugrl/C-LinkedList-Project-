@@ -1,1 +1,2 @@
-# C++-LinkedList-Project-
+# C++ LinkedList Project 
+This project is written in c++. It covers all of the properties of the data structure which is called linked list. In this project there is an object which is called person. Each person has a name and phone objects. These person objects are hold by an another object which is called phoneBook. Each phone book has different people and each person has different phone numbers(different phone objects). You can add person, remove person, add phone to a person and remove phone from a specific person by using the methods that is written.
